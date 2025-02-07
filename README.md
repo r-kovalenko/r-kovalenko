@@ -28,8 +28,8 @@ Passionate Software Developer
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60"/><br>Redis</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="60" height="60"/><br>TypeORM</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Memcached.svg" width="60" height="60"/><br>Memcached</td>
-    <td align="center"><img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" width="60" height="60"/><br>TypeORM</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60"/><br>Nginx</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/><br>Postman</td>
   </tr>
@@ -37,14 +37,15 @@ Passionate Software Developer
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/><br>Figma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60"/><br>GitLab</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="60" height="60"/><br>GraphQL</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Azure_DevOps_Logo.svg" width="60" height="60"/><br>Azure DevOps</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="60" height="60"/><br>Azure DevOps</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/><br>Linux</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60"/><br>Windows</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>Git</td>
-    <td align="center">SAAS</td>
-    <td align="center">BEM</td>
-    <td align="center">Google Analytics</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/><br>SAAS</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/BEM_Block_Element_Modifier.svg" width="60" height="60"/><br>BEM</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Google_Analytics_Logo.svg/512px-Google_Analytics_Logo.svg.png" width="60" height="60"/><br>Google Analytics</td>
   </tr>
+</table>
 </table>
