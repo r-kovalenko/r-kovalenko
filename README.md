@@ -7,10 +7,10 @@ Passionate Software Developer
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/><br>TypeScript</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="60" height="60"/><br>NestJS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/><br>Node.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/><br>PHP</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" height="60"/><br>Laravel</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="60" height="60"/><br>NestJS</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br>React</td>
@@ -46,6 +46,12 @@ Passionate Software Developer
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/><br>SAAS</td>
     <td align="center"><img src="https://www.svgrepo.com/show/353481/bem.svg" width="60" height="60"/><br>BEM</td>
     <td align="center"><img src="https://www.svgrepo.com/show/353804/google-analytics.svg" width="60" height="60"/><br>Google Analytics</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" width="60" height="60"/><br>Jenkins</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" width="60" height="60"/><br>RabbitMQ</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/439241/object-oriented-programming.svg" width="60" height="60"/><br>OOP</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/439138/design-patterns.svg" width="60" height="60"/><br>Design patterns</td>
   </tr>
 </table>
 </table>
