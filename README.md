@@ -29,7 +29,7 @@ Passionate Software Developer
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60"/><br>Redis</td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="60" height="60"/><br>TypeORM</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Memcached.svg" width="60" height="60"/><br>Memcached</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/354056/memcached.svg" width="60" height="60"/><br>Memcached</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60"/><br>Nginx</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/><br>Postman</td>
   </tr>
@@ -44,8 +44,8 @@ Passionate Software Developer
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60"/><br>Windows</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>Git</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/><br>SAAS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/BEM_Block_Element_Modifier.svg" width="60" height="60"/><br>BEM</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Google_Analytics_Logo.svg/512px-Google_Analytics_Logo.svg.png" width="60" height="60"/><br>Google Analytics</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/353481/bem.svg" width="60" height="60"/><br>BEM</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/353804/google-analytics.svg" width="60" height="60"/><br>Google Analytics</td>
   </tr>
 </table>
 </table>
