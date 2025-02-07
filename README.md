@@ -4,85 +4,47 @@ Passionate Software Developer
 
 ## 🚀 Technologies I Use
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-    <p>TypeScript</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-    <p>Node.js</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-    <p>PHP</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="60" height="60"/>
-    <p>Laravel</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="60" height="60"/>
-    <p>NestJS</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-    <p>React</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="60" height="60"/>
-    <p>Redux</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/>
-    <p>Angular</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="60" height="60"/>
-    <p>RxJS</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" width="60" height="60"/>
-    <p>NgRx</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-    <p>MySQL</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-    <p>Docker</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    <p>JavaScript</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
-    <p>Kubernetes</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60"/>
-    <p>Jest</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHPUnit" width="60" height="60"/>
-    <p>PHPUnit</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="60" height="60"/>
-    <p>Redis</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/memcached/memcached-original.svg" alt="Memcached" width="60" height="60"/>
-    <p>Memcached</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="TypeORM" width="60" height="60"/>
-    <p>TypeORM</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/>
-    <p>Nginx</p>
-  </div>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/><br>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/><br>PHP</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" height="60"/><br>Laravel</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="60" height="60"/><br>NestJS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60"/><br>Redux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60"/><br>Angular</td>
+    <td align="center"><img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="60" height="60"/><br>RxJS</td>
+    <td align="center"><img src="https://ngrx.io/assets/images/badge.svg" width="60" height="60"/><br>NgRx</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60"/><br>Kubernetes</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" height="60"/><br>Jest</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60"/><br>Redis</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Memcached.svg" width="60" height="60"/><br>Memcached</td>
+    <td align="center"><img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" width="60" height="60"/><br>TypeORM</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60"/><br>Nginx</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/><br>Postman</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/><br>Figma</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60"/><br>GitLab</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="60" height="60"/><br>GraphQL</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Azure_DevOps_Logo.svg" width="60" height="60"/><br>Azure DevOps</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60"/><br>Windows</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>Git</td>
+    <td align="center">SAAS</td>
+    <td align="center">BEM</td>
+    <td align="center">Google Analytics</td>
+  </tr>
+</table>
